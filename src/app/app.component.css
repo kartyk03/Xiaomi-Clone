@@ -1,0 +1,92 @@
+.nav{
+    background-color: white;
+}
+.icon-li{
+    display: flex;
+    font-size: 18px;
+    opacity: .5;
+    list-style-type: none;
+    margin-top: -54px;
+    margin-left: 50px;
+    /*border:solid 2px black;*/
+}
+
+li{
+    margin:20px
+}
+
+.icon-but{
+    display: flex;
+    font-size: 18px;
+    opacity: .5;
+    list-style-type: none;
+    margin-top: -80px;
+    margin-left: 1100px;
+    /*border: solid 2px red;*/
+    padding: 1px;
+}
+
+.icon img{
+    height: 40px;
+    width: 40px;
+    margin-left: 30px;
+    padding-top: 10px;
+}
+
+.carosole img{
+    width:100%;
+    height:100%;
+    margin-top:-25px;
+}
+
+.tv-description{
+    margin-top: -400px;
+    color:whitesmoke;
+    margin-left: 140px;
+}
+
+.tv-description h6{
+    font-weight: normal;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-size: 28px;
+}
+
+.tv-description h1{
+    font-weight: bold;
+    font-size: 45px;
+    font-family: sans-serif;
+    margin-top: 10px;
+}
+
+.tv-description h5{
+    font-size: 24px;
+    font-weight: normal;
+    font-family: san serif;
+    margin-bottom:0px;
+}
+
+.buy-now-button{
+    width: 136px;
+    height: 41px;
+    border: 1px solid white;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+
+.small-cover img{
+    height: 300px;
+    width: 1100px
+}
+
+.small-cover{
+    margin-top: 130px;
+    text-align: center;
+}
+
+.cover-1{
+    margin-bottom: 35px;
+}
+
+
+
